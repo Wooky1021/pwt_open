@@ -1,5 +1,15 @@
 !광고 차단 리스트
 waust.at/s.js
+https://m129.az-cdn.com/banners/vogirl/newcallgirl.gif
+
 ||wauroufu.net^
 ||waust.at^
 ||wauthaik.net^
+
+!링크로 차단?
+
+##a[href^="http://www.mrskin.com/tour"]
+##a[href^="https://1betandgonow.com/"]
+##a[href^="https://6-partner.com/"]
+##a[href^="https://81ac.xyz/"]
+##a[href^="https://a-ads.com/"]
