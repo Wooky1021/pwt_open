@@ -1,10 +1,14 @@
 !광고 차단 리스트
 waust.at/s.js
 https://m129.az-cdn.com/banners/vogirl/newcallgirl.gif
+https://m129.az-cdn.com/banners/yaddarJav/Javbanner.gif
 
 ||wauroufu.net^
 ||waust.at^
 ||wauthaik.net^
+
+
+##.az-cdn.com
 
 !링크로 차단?
 
