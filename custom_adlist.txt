@@ -1,1 +1,5 @@
+!광고 차단 리스트
 waust.at/s.js
+||wauroufu.net^
+||waust.at^
+||wauthaik.net^
