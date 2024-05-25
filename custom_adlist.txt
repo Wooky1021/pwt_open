@@ -2,16 +2,10 @@
 !배너 url로 차단
 waust.at/s.js
 
-||wauroufu.net^
 ||waust.at^
-||wauthaik.net^
 ||az-cdn.com^
 ##.az-cdn.com
-
+##.linkbn.php?
 !링크로 차단
 
-##a[href^="http://www.mrskin.com/tour"]
-##a[href^="https://1betandgonow.com/"]
-##a[href^="https://6-partner.com/"]
-##a[href^="https://81ac.xyz/"]
 ##a[href^="https://a-ads.com/"]
