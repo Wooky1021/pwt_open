@@ -2,10 +2,15 @@
 !배너 url로 차단
 waust.at/s.js
 
+tvwiki10.com/AD/weiweu9.jpg
+tvwiki10.com/AD/*
+www.agwi-01.com/?ref=7731
 ||waust.at^
 ||az-cdn.com^
 ##.az-cdn.com
 ##.linkbn.php?
+
+
 
 !링크로 차단
 ##a[href^="https://a-ads.com/"]
