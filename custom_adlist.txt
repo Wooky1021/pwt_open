@@ -2,20 +2,19 @@
 !배너 url로 차단
 waust.at/s.js
 
-!tvwiki10.com/AD/weiweu9.jpg
-tvwiki10.com/AD/
 ||waust.at^
 ||az-cdn.com^
 ##.az-cdn.com
 ##.linkbn.php?
 
 
-
 !링크로 차단
 ##a[href^="https://a-ads.com/"]
-!##a[href^="http://www.agwi-01.com/?ref=7731"]
 
-
-#CSS SELECTOR로 차단
+#CSS SELECTOR로 차단?
 !##ul[id="bannerList"]
-!div > ul#bannerList
+div#body_wrap > ul#bannerList
+
+!티비위키
+!tvwiki10.com/AD/
+*.com/AD/
