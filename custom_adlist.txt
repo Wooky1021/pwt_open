@@ -6,6 +6,10 @@ waust.at/s.js
 ||az-cdn.com^
 ##.az-cdn.com
 ##.linkbn.php?
-!링크로 차단
 
+!링크로 차단
 ##a[href^="https://a-ads.com/"]
+
+#CSS SELECTOR로 차단
+#bannerList
+##bannerList
