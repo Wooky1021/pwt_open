@@ -9,7 +9,9 @@ waust.at/s.js
 
 !링크로 차단
 ##a[href^="https://a-ads.com/"]
+##a[href^="http://www.agwi-01.com/?ref=7731"]
+
 
 #CSS SELECTOR로 차단
-#bannerList
+##ul[id="bannerList"]
 div > ul#bannerList
