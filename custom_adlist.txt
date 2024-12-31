@@ -4,8 +4,6 @@ waust.at/s.js
 
 tvwiki10.com/AD/weiweu9.jpg
 tvwiki10.com/AD/*
-tvwiki10.com/AD/
-tvwiki10.com
 www.agwi-01.com/?ref=7731
 ||waust.at^
 ||az-cdn.com^
@@ -20,5 +18,5 @@ www.agwi-01.com/?ref=7731
 
 
 #CSS SELECTOR로 차단
-##ul[id="bannerList"]
-div > ul#bannerList
+!##ul[id="bannerList"]
+!div > ul#bannerList
