@@ -3,7 +3,8 @@
 ||waust.at^
 ||az-cdn.com^
 ##.linkbn.php?
-^cdn.net/banners^
+||b-cdn.net/banners^
+
 
 !링크로 차단
 ##a[href^="https://a-ads.com/"]
