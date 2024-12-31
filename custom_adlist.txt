@@ -12,4 +12,4 @@ waust.at/s.js
 
 #CSS SELECTOR로 차단
 #bannerList
-##bannerList
+div > ul#bannerList
