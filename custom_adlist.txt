@@ -3,7 +3,7 @@
 waust.at/s.js
 
 !tvwiki10.com/AD/weiweu9.jpg
-!tvwiki10.com/AD/*
+tvwiki10.com/AD/
 ||waust.at^
 ||az-cdn.com^
 ##.az-cdn.com
