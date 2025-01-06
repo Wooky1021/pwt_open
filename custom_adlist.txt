@@ -4,7 +4,7 @@
 ||az-cdn.com^
 ##.linkbn.php?
 ||b-cdn.net/banners^
-||https://static.wixstatic.com/media^
+
 
 !링크로 차단
 ##a[href^="https://a-ads.com/"]
@@ -16,4 +16,5 @@
 !티비위키
 tvwiki*.com/AD/
 *.com/AD/
+||static.wixstatic.com/media^
  
