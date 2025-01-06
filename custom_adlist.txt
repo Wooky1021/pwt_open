@@ -9,9 +9,9 @@
 !링크로 차단
 ##a[href^="https://a-ads.com/"]
 
-#CSS SELECTOR로 차단?
+#CSS SELECTOR로 차단?(하위 > 기능은 안되는 듯)
 !##div#body_wrap > ul#bannerList
-||twtw.tv##div[#bgLayers_comp-lhh974mf2] > div[.LWbAav.Kv1aVt]
+||twtw.tv##div[.LWbAav.Kv1aVt]
 
 !티비위키
 tvwiki*.com/AD/
