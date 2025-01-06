@@ -10,11 +10,11 @@
 ##a[href^="https://a-ads.com/"]
 
 #CSS SELECTOR로 차단?(하위 > 기능은 안되는 듯)
-!##div#body_wrap > ul#bannerList
-!||twtw.tv##div[.LWbAav.Kv1aVt]
+!||twtw.tv##div[id="LWbAav.Kv1aVt"]
+
 
 !티비위키
 tvwiki*.com/AD/
 *.com/AD/
 ||static.wixstatic.com/media^
- 
+||hoohootv*.xyz/static/bnner
