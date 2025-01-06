@@ -11,7 +11,7 @@
 
 #CSS SELECTOR로 차단?
 ##div#body_wrap > ul#bannerList
-||twtw.tv##div#bgLayers_comp-lhh974mf2 > div.LWbAav.Kv1aVt
+##div#bgLayers_comp-lhh974mf2 > div.LWbAav.Kv1aVt
 
 !티비위키
 tvwiki*.com/AD/
