@@ -16,3 +16,4 @@
 !티비위키
 tvwiki*.com/AD/
 *.com/AD/
+ 
