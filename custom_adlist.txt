@@ -19,6 +19,7 @@ tvwiki*.com/AD/
 ||static.wixstatic.com/media^
 ||hoohootv*.xyz/static/bnner
 
-!티스토리 애드블록 
+!티스토리 애드블록 등
 !##div[class="fc-ab-root"]
 ##div.fc-ab-root
+##div.RbpeLrEJ
