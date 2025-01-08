@@ -21,4 +21,4 @@ tvwiki*.com/AD/
 
 !티스토리 애드블록 
 !##div[class="fc-ab-root"]
-!##div.fc-ab-root
+##div.fc-ab-root
