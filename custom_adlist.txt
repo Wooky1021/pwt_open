@@ -13,13 +13,16 @@
 !||twtw.tv##div[id="LWbAav.Kv1aVt"]
 
 
-!티비위키
+!ㅌㅂㅇㅋ
 tvwiki*.com/AD/
 *.com/AD/
 ||static.wixstatic.com/media^
 ||hoohootv*.xyz/static/bnner
 
-!티스토리 애드블록 등
+!티스토리, 블로그 애드블록차단
 !##div[class="fc-ab-root"]
 ##div.fc-ab-root
 ##div.RbpeLrEJ
+
+!커뮤니티 추가팝업
+||inven.co.kr##div#invenAppSuggestion
