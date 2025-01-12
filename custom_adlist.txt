@@ -26,4 +26,4 @@ tvwiki*.com/AD/
 
 !커뮤니티 추가팝업
 inven.co.kr##div#invenAppSuggestion
-inven.co.kr##div[style="position:relative;align-items:center;display:flex;"]
+inven.co.kr##div[style="position:relative;align-items:center;display:flex;"] > iframe
