@@ -30,6 +30,7 @@ inven.co.kr##div#invenAppSuggestion
 m.humoruniv.com##div#comment>ul>div>div[class=""]
 m.humoruniv.com##div#ls11
 ##div#ncc_container
+m.humoruniv.com##iframe>html>body
 
 
 
