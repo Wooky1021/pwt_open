@@ -27,7 +27,7 @@ tvwiki*.com/AD/
 !커뮤니티 추가팝업
 inven.co.kr##div#invenAppSuggestion
 !inven.co.kr##div[style="position:relative;align-items:center;display:flex;"] > iframe
-humoruniv.com##body#gfp_sf_body
+humoruniv.com##div#gfp_sf_body
 gladsdk.displayAd
 
 		 
