@@ -9,9 +9,9 @@
 !링크로 차단
 ##a[href^="https://a-ads.com/"]
 
-#CSS SELECTOR로 차단?(하위 > 기능은 안되는 듯)
+#CSS SELECTOR로 차단?(하위 > 기능은 붙여서 사용)
 !||twtw.tv##div[id="LWbAav.Kv1aVt"]
-
+!##div.ob_box_cont>ul>li.ob-p  !하위 태그 예시
 
 !ㅌㅂㅇㅋ
 tvwiki*.com/AD/
@@ -27,7 +27,7 @@ tvwiki*.com/AD/
 !커뮤니티 추가팝업
 inven.co.kr##div#invenAppSuggestion
 !inven.co.kr##div[style="position:relative;align-items:center;display:flex;"] > iframe
-m.humoruniv.com##div#gfp_sf_body
+##div#gfp_sf_body
 hgladsdk.displayAd
 
 		 
