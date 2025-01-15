@@ -29,7 +29,7 @@ inven.co.kr##div#invenAppSuggestion
 !inven.co.kr##div[style="position:relative;align-items:center;display:flex;"] > iframe
 ##body#gfp_sf_body
 m.humoruniv.com##div#comment>ul>div>div[class=""]
-m.humoruniv.com##div[class="~fdajl"]
+m.humoruniv.com##div[class="*fdajl"]
 
 
 		 
