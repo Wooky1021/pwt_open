@@ -33,7 +33,7 @@ m.humoruniv.com##div#ls11
 m.humoruniv.com##div#ls12
 ##div#ncc_container
 m.humoruniv.com##iframe>html>body
-
+ruliweb.com##div.include_msg.active
 
 
 		 
